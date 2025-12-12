@@ -1,2 +1,2 @@
 # Windows
-Proyecto sobre Windosws para Jorge López
+Proyecto sobre Windows para Jorge López
